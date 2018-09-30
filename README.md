@@ -1,2 +1,4 @@
 # hello-world
 este es el repositorio para hola mundo
+hola mi nombre es Giovan herrera
+mucho gusto el gusto es mio
